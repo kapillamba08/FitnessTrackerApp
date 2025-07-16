@@ -12,32 +12,17 @@ A React Native app to track workouts, steps, and water intake.
 
 ## Screenshots
 
-### Home Page
-![Home Page](project/assets/HomePage.png)
-
-### Steps Page
-![Steps Page](project/assets/StepsPage.png)
-
-### Workout Page
-![Workout Page](project/assets/WorkoutPage.png)
-
-### Log Workout
-![Log Workout](project/assets/LogWorkOut.png)
-
-### Today's Workouts
-![Today's Workouts](project/assets/Today'sWorkouts.png)
-
-### Water Intake Page
-![Water Intake Page](project/assets/WaterIntakePage.png)
-
-### Settings Page
-![Settings Page](project/assets/SettingPage.png)
-
-### Change Password Setting
-![Change Password Setting](project/assets/ChangePasswordSetting.png)
-
-### Profile
-![Profile](project/assets/Profile.png)
+<p float="left">
+  <img src="project/assets/HomePage.png" alt="Home Page" width="180"/>
+  <img src="project/assets/StepsPage.png" alt="Steps Page" width="180"/>
+  <img src="project/assets/WorkoutPage.png" alt="Workout Page" width="180"/>
+  <img src="project/assets/LogWorkOut.png" alt="Log Workout" width="180"/>
+  <img src="project/assets/Today'sWorkouts.png" alt="Today's Workouts" width="180"/>
+  <img src="project/assets/WaterIntakePage.png" alt="Water Intake Page" width="180"/>
+  <img src="project/assets/SettingPage.png" alt="Settings Page" width="180"/>
+  <img src="project/assets/ChangePasswordSetting.png" alt="Change Password Setting" width="180"/>
+  <img src="project/assets/Profile.png" alt="Profile" width="180"/>
+</p>
 
 ## Getting Started
 
@@ -54,7 +39,3 @@ A React Native app to track workouts, steps, and water intake.
    ```bash
    npm start
    ```
-
-## License
-
-MIT
